@@ -14,4 +14,4 @@
 														¯\_(ツ)_/¯
 - Nem tudok mindent leírni, így helyenként hibás vagy pedig hiányos lesz.
 - Könyveket, különböző nagyméretű fájlokat nem rakok fel, azt külön küldöm ha kéritek. (Nem tudom mi az egyetem álláspontja másolt pl.: digitális könyvek terjesztéséről, de nem akarok semmilyen szankciót, ez az oka.)
-- AI-t NEM HASZNÁLOK.
+- AI-t nem használok jegyzeteléskor.
