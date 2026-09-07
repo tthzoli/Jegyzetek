@@ -1,7 +1,9 @@
 ## Középkori magyar történelem előadás, BTTR220; BA/OMA II. évf. Prof. Dr. Bárány Attila
 
 Email: barany.attila@yahoo.com
-### Anyagok: [https://drive.google.com/drive/folders/0B7FbzLJ0rs4HWmlWaUFFTUVYTms?resourcekey=0-LGAH9BYqQP6fPjnVNa9Unw&usp=drive_link]
+### Anyagok: 
+[https://drive.google.com/drive/folders/0B7FbzLJ0rs4HWmlWaUFFTUVYTms?resourcekey=0-LGAH9BYqQP6fPjnVNa9Unw&usp=drive_link]https://drive.google.com/drive/folders/0B7FbzLJ0rs4HWmlWaUFFTUVYTms?resourcekey=0-LGAH9BYqQP6fPjnVNa9Unw&usp=drive_link
+
 
 A kurzus a Magyar Királyság helyét igyekszik meghatározni Európában a tatárjárást követően, egészen Mátyás haláláig. Vizsgálja, volt-e szerepe az uralkodóknak az európai hatalmi politikában? A királyi diplomácia működését nemcsak szövetségkötéseken, hanem dinasztikus házasságokon át ragadja meg. Áttekinti a közép és kelet-európai, valamint a nyugati orientációt. Hangsúlyozottan taglalja a pápaság és Magyarország viszonyát, a részvételét a keresztes hadjáratokban, a török veszély elhárítására tett első kísérleteket.
 
