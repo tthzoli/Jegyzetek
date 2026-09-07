@@ -1,5 +1,4 @@
-### Magyarország története (1241-1490)
-Középkori magyar történelem előadás, BTTR220; BA/OMA II. évf. Prof. Dr. Bárány Attila
+## Középkori magyar történelem előadás, BTTR220; BA/OMA II. évf. Prof. Dr. Bárány Attila
 
 Email: barany.attila@yahoo.com
 
