@@ -44,7 +44,7 @@ Klaniczay Gábor (szerk.): _Európa ezer éve: A középkor I._ Budapest: Osiris
 
 Sz. Jónás Ilona (szerk.): _Középkori egyetemes történeti szöveggy__ű__jtemény_. Budapest: Osiris Kiadó, 1999. 22–27, 33–34, 39–40, 47–49, 55–59. o.
 
-**Ajánlott irodalom:**
+### Ajánlott irodalom:
 Benke József: _Az arabok története_. Budapest: Kossuth, 1987.
 
 Cahen, Claude: _Az iszlám. A kezdetekt__ől az Oszmán Birodalom létrejöttéig_. Budapest: Gondolta, 1989.
@@ -55,7 +55,7 @@ Goldziher Ignác: _Az iszlám kultúrája_. Vol. I–II. Budapest: Gondolat, 198
 
 Fehérvári Géza: Az iszlám művészet története. Budapest: Képzőművészeti Kiadó, 1987.
 
-Kennedy, Hugh: _The Armies of the Caliphs: Military and Society in the Early Islamic State_. London: Routledge, 2001.
+Kennedys, Hugh: _The Armies of the Caliphs: Military and Society in the Early Islamic State_. London: Routledge, 2001.
 
 Lewis, Bernard – Churchill, Buntzie Ellis: _Iszlám. Nép és vallás_. Budapest: HVG, 2009.
 
