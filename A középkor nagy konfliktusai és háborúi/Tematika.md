@@ -20,6 +20,10 @@
 - Anyaggyűjtés egyénileg
 - 20 perces
 - Mondandó ilusztrálása
+- Összefoglaló
 
 	- Németlovagrend és Lengyelország háborúi (Günbaldi[???] csata)
 		- Károly Róbert, Ulászló, 1521-1526
+
+Európa virágzó középkor
+Európa a korai középkorban
