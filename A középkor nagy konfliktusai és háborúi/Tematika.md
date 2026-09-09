@@ -1,6 +1,6 @@
-Órai munka és beszámoló
+#### Órai munka és beszámoló
 - Jövő hét
-- Szeptember 30. szerda, nov 4. szerda (órák elmaradnak)
+- Szeptember 30. szerda, nov. 4. szerda (órák elmaradnak)
 
 ### Témakörök:
 - Kora középkor
@@ -17,6 +17,7 @@
 	- A török Európában (14. század közepétől jelenik meg az Oszmán török hatalom)
 	- Itáliai háborúk (középkor vége [főképp franciák és habsburgok közötti háború])
 
+### Előadás:
 - Anyaggyűjtés egyénileg
 - 20 perces
 - Mondandó ilusztrálása
