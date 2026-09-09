@@ -7,11 +7,11 @@ ELŐADÁS DE BTK Főépület XII.
 ### 2026-2027. I. félév
 
 Az előadás tárgykörei:
-##### 1. Bevezetés, alapfogalmak elsajátítása
+#### 1. Bevezetés, alapfogalmak elsajátítása
 
-##### 2. előadás: Levéltárakra vonatkozó jogszabályok: 1995. évi LXVI. Törvény, 27/2015. (_V. 27.)_ EMMI rendelet
+#### 2. előadás: Levéltárakra vonatkozó jogszabályok: 1995. évi LXVI. Törvény, 27/2015. (_V. 27.)_ EMMI rendelet
 
-##### 3. Levéltártan
+### 3. Levéltártan
 
 2−5. előadás
 2. _Gyűjtőterületi munka korunkban_
