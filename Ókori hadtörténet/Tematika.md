@@ -66,4 +66,4 @@ Zlinszky János: Ius publicum. Budapest, 1995.
 
 Dr. Forisek Péter 
 
-sk. egyetemi docens
+egyetemi tanár
