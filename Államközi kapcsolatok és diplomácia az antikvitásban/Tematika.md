@@ -1,6 +1,6 @@
-BTTRPN600BA Államközi kapcsolatok és diplomácia az antikvitásban 
+# BTTRPN600BA Államközi kapcsolatok és diplomácia az antikvitásban 
 
-2024/25-ös tanév I. félév 
+## 2026/27-ös tanév I. félév 
 
 A kurzus az órai előadások anyaga és a megadott szakirodalom alapján összeállított írásbeli vizsgával zárul (személynevek, fogalmak, források, rövid kifejtős kérdések lesznek). 
 
@@ -28,7 +28,7 @@ A kurzus az órai előadások anyaga és a megadott szakirodalom alapján össze
 
 12. Összefoglalás. 
 
-Irodalom 
+## Irodalom 
 
 Forisek Péter: Európa fogalma a klasszikus antikvitásban. In: Nemzetállam - Szuverenitás - Integráció. Tanulmányok az integráció témaköréből. (Szerk. Hülvely István - Pallai László) Kossuth Egyetemi Kiadó, Debrecen, 2001. 7-17. 
 
@@ -42,7 +42,7 @@ Zlinszky János: Ius publicum. Budapest, 1994.
 
 Takács László: A római diplomácia. Budapest, 2013. 
 
-Debrecen, 2024. szeptember 3. 
+#### Debrecen, 2024. szeptember 3. 
 
 Dr. Forisek Péter 
 
