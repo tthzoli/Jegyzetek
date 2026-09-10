@@ -1,8 +1,4 @@
-#### Órai munka és beszámoló
-- Jövő hét
-- Szeptember 30. szerda, nov. 4. szerda (órák elmaradnak)
-
-### Témakörök:
+# Témakörök:
 - Kora középkor
 	- Népvándorlás (konfliktusok, jelentős ütközetek)
 	- Arabok, szlávok, vikingek, magyar kalandozások, európai háborúk, késő karoling-kor
