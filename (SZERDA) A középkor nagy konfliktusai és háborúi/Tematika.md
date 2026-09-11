@@ -9,7 +9,7 @@
 	- Angol-francia háborúk: a kétszáz éves háború (Mi volt? Mi volt a fő oka? Miért tartott el eddig)
 	- Litván háborúk évszázada (keresztény és pogány hadjáratok)
 	- Kereskedők fegyverben (kereskedelmek hatalmak konfliktusai: Itáliai államok [Genova, Hanza])
-	- Németlovagrend és Lengyelország háborúi (Günbaldi[???] csata)
+	- Német lovagrend és Lengyelország háborúi (Günbaldi[???] csata)
 	- A török Európában (14. század közepétől jelenik meg az Oszmán török hatalom)
 	- Itáliai háborúk (középkor vége [főképp franciák és habsburgok közötti háború])
 
