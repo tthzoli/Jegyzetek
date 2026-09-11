@@ -115,7 +115,7 @@ Dienes István: „A honfoglaló magyarok és ősi hiedelmeik.” In: Hajdú Pé
 
 Fodor István: „A rejtélyes 10. század.” _Korunk_ 25, 8. sz. (2014): 3–11. o.
 
-Mesterházy Károly: „A honfoglaló magyarok társadalma és a régészet.” _Életünk_ 34, 8. sz. (1996): 768–795. o.  [https://library.hungaricana.hu/hu/view/Eletunk_1996/?pg=827&layout=s&query=Mesterh%C3%A1zy%20K%C3%A1roly]  
+[Mesterházy Károly: „A honfoglaló magyarok társadalma és a régészet.” _Életünk_ 34, 8. sz. (1996): 768–795. o. ]( [https://library.hungaricana.hu/hu/view/Eletunk_1996/?pg=827&layout=s&query=Mesterh%C3%A1zy%20K%C3%A1roly]  )
 
 Róna-Tas András: „A nomád életforma geneziséhez.” In: Tőkei Ferenc (szerk.): _Nomád társadalmak és államalakulatok_. Bp., 1983. 51–65. o.
 
