@@ -173,7 +173,7 @@ Gyárfás István, _A jász-kunok története_. I-IV. Bp-Szolnok, 1870-1885.
 
 _Hadszervezet és honvédelem István király korában_. Bp., 1988. [Rázsó Gy.: István és a fiatal magyar állam fegyveres védelme, p. 22-32.; Borosy András: Hadsereg és társadalom István korában, p. 33-44.] 
 
-Hársing László - Kozák Károly: "A johanniták a középkori Magyarországon", _Világosság_ (1979/11.).
+[Hársing László - Kozák Károly: "A johanniták a középkori Magyarországon", _Világosság_ (1979/11.).](https://adt.arcanum.com/hu/view/Vilagossag1957_1979-2/?pg=313&layout=s)
 
 Hatházi Gábor: "Az Árpád-kori magyar hadszervezet nomád elemei. A besenyők", _HK_ (1990/2.) 22-60.
 
@@ -319,7 +319,7 @@ Zsoldos Attila: "A királyi várszervezet és a tatárjárás", _HK_ 104 (1991
 
 --: "A várjobbágyi jogállás kialakulása", _HK_ (1993/2.) 20-42.
 
---: _Szent király szabadjai._ Fejezetek a várjobbágyság történetéből. Bp., 1999.
+--: _Szent király szabVeszprémy László: "II. András magyar király kereszteseinek létszáma", _HK_ (1994/1.) 113–116.adjai._ Fejezetek a várjobbágyság történetéből. Bp., 1999.
 
 --: "Téténytől a Hódtóig. Az 1279 és 1282 közötti évek politikatörténetének vázlata", _TSz_ 39 (1997) 69–98.
 
