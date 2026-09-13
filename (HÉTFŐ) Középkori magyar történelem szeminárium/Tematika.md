@@ -7,7 +7,7 @@ DE–BTK, Történelemi Intézet
 
 ### Források:
 
-Anonymus: _A magyarok cselekedetei_. Ford. Veszprémy László. Bp., 2004.
+[Anonymus: _A magyarok cselekedetei_. Ford. Veszprémy László. Bp., 2004.](https://www.szaktars.hu/osiris/view/anonymus-kezai-simon-a-magyarok-cselekedetei-a-magyarok-cselekedetei-millenniumi-magyar-tortenelem-forrasok-1999/?pg=12&layout=s)
 
 Bíborbanszületett Konstantin: _A Birodalom Kormányzása_. Ford. Moravcsik Gyula. Szeged, 2003. (továbbiakban: DAI)
 
