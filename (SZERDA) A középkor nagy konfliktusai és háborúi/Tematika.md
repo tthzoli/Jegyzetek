@@ -19,7 +19,7 @@
 - Mondandó ilusztrálása
 - Összefoglaló
 
-	- Németlovagrend és Lengyelország háborúi (Günbaldi[???] csata)
+	- Német lovagrend és Lengyelország háborúi (Günbaldi[???] csata)
 		- Károly Róbert, Ulászló, 1521-1526
 
 Európa virágzó középkor
