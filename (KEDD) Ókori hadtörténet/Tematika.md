@@ -6,7 +6,7 @@
 A kurzus az órai előadások anyaga és a megadott szakirodalom alapján összeállított írásbeli vizsgával zárul (személynevek, fogalmak, források, rövid kifejtős kérdések lesznek). 
 
 ## Tematika: 
-1. A bronzkori világ hadművészete. A vas és a hadászat átalakulása 
+1. A bronzkori világ hadművészete. A vas és a hadászat átalakulása
 
 2. A görög-perzsa háborúk 2500 év távlatából 
 
