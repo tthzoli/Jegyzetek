@@ -13,9 +13,9 @@ Oktató: Árvai Tünde, adjunktus (arvai.tunde@arts.unideb.hu)
 
 2026/2027. tanév I. félév 
 
-A kurzus teljesítésének feltételei  aktív órai jelenlét, maximum három hiányzás (jelzés emailben)  15 perces prezentációval kísért előadás tartása a választott témából (forráselemzés beépítésével)  zárthelyi dolgozat mindkét részének minimum elégségesre teljesítése  vállalt lexikai tételek és esszé kidolgozása 2026. november 29-ig Szeptember 
+A kurzus teljesítésének feltételei  aktív órai jelenlét, maximum három hiányzás (jelzés emailben)  15 perces prezentációval kísért előadás tartása a választott témából (forráselemzés beépítésével)  zárthelyi dolgozat mindkét részének minimum elégségesre teljesítése  vállalt lexikai tételek és esszé kidolgozása 2026. november 29-ig  
 
-- 10. A kurzus teljesítési feltételeinek ismertetése. Tematika összeállítása. Referátumtémák kiválasztása. 
+- Szeptember 10. A kurzus teljesítési feltételeinek ismertetése. Tematika összeállítása. Referátumtémák kiválasztása. 
 
 - Szeptember 17. Az iszlám vallás – Az arab hódítás – Az arab tudomány 
 	- Referátum: A Korán. Forrás: A Korán Váradi András 
