@@ -9,10 +9,10 @@ Oktató: Árvai Tünde, adjunktus (arvai.tunde@arts.unideb.hu)
 2026/2027. tanév I. félév 
 
 #### A kurzus teljesítésének feltételei: 
-- Aktív órai jelenlét, maximum három hiányzás (jelzés emailben) 
-- 15 perces prezentációval kísért előadás tartása a választott témából (forráselemzés beépítésével) 
-- Zárthelyi dolgozat mindkét részének minimum elégségesre teljesítése 
-- Vállalt lexikai tételek és esszé kidolgozása 2026. november 29-ig  
+1. Aktív órai jelenlét, maximum három hiányzás (jelzés emailben) 
+2. 15 perces prezentációval kísért előadás tartása a választott témából (forráselemzés beépítésével) 
+3. Zárthelyi dolgozat mindkét részének minimum elégségesre teljesítése 
+4. Vállalt lexikai tételek és esszé kidolgozása 2026. november 29-ig  
 
 - Szeptember 10. A kurzus teljesítési feltételeinek ismertetése. Tematika összeállítása. Referátumtémák kiválasztása. 
 
