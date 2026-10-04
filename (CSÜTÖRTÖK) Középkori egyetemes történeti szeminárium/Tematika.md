@@ -19,9 +19,9 @@ A kurzus teljesítésének feltételei  aktív órai jelenlét, maximum háro
 
 - Szeptember 17. Az iszlám vallás – Az arab hódítás – Az arab tudomány 
 	- Referátum: A Korán. Forrás: A Korán Váradi András 
-	- Referátum: az arab orvostudomány jeles képviselői. Forrás: Avicenna: Kánon Szeptember 24. 
+	- Referátum: az arab orvostudomány jeles képviselői. Forrás: Avicenna: Kánon
 
-- Nagy Károly és birodalma – A Karoling reneszánsz 
+- Szeptember 24. Nagy Károly és birodalma – A Karoling reneszánsz 
 	- Referátum: Nagy Károly műveltsége Forrás: Einhard: Vita Caroli Magni Kovács János
 	- Referátum: Nagy Károly „munkatársai” Roland Október 1. 
 
