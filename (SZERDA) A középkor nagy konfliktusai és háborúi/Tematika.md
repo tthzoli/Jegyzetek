@@ -3,7 +3,7 @@
 	- Népvándorlás (konfliktusok, jelentős ütközetek)
 	- Arabok, szlávok, vikingek, magyar kalandozások, európai háborúk, késő karoling-kor
 	- Bizánc háborúi
-	- Pápaság-császárság küzdelme
+	- Pápaság és a császárság küzdelme
 	- Keresztes háborúk (eretnekek, ortodoxok, oszmán törökök ellen)
 	- Tatárjárás (mongol invázió Európa ellen: oroszok, sztyeppei népek, lengyelek, mongol birodalom felemelkedésének előzménye [működése])
 	- Angol-francia háborúk: a kétszáz éves háború (Mi volt? Mi volt a fő oka? Miért tartott el eddig)
