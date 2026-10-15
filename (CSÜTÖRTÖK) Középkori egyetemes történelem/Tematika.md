@@ -1,3 +1,2 @@
 Szóbeli
-
-(Jelenleg nem adta ki)
+A tematikát még nem adta ki
