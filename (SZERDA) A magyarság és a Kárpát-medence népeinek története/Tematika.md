@@ -30,7 +30,7 @@ Oktató: Tózsa-Rigó Attila (tozsa.rigo@gmail.com, tozsa.rigo@arts.unideb.hu)
 - R. Várkonyi Ágnes: Gazdaság és társadalom a 17. század második felében. (1648-1686). In: Magyarország története 1526-1686. Bp., 1985. 1273-1291
 
 #### Ajánlott irodalom
-- Ács Zoltán: Nemzetiségek a történelmi Magyarországon. Bp., 1986.
+- Ács Zoltáan: Nemzetiségek a történelmi Magyarországon. Bp., 1986.
 - Barta Gábor: Gazdaság, társadalom és kultúra az új államban. In: Makkay - Mócsy (szerk.): Erdély története I. k. 454-521.
 - Hatházi Gábor: Keleti népelemek beköltözése és integrálódása a középkori Magyarországon. In: Pósán - Veszprémy - Isaszegi (szerk.): Migráció a kora középkortól napjainkig. 35-66.
 - Hunfaly Pál: Magyarország ethnographiája. Bp., 1876.
