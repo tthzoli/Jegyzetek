@@ -1,4 +1,4 @@
-## Hadtört. spec. BTTRHT613BA Magyarország hadtörténete az Árpádok korában, szem.  Bárány Attila
+s## Hadtört. spec. BTTRHT613BA Magyarország hadtörténete az Árpádok korában, szem.  Bárány Attila
 
 Email: barany.attila@yahoo.com
 
