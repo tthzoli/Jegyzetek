@@ -5,7 +5,7 @@
 	- Bizánc háborúi
 	- Pápaság és a császárság küzdelme
 	- Keresztes háborúk (eretnekek, ortodoxok, oszmán törökök ellen)
-	- Tatárjárás (mongol invázió Európa ellen: oroszok, sztyeppei népek, lengyelek, mongol birodalom felemelkedésének előzménye [működése])
+	- Tatárjárás (mongol invázió Európa ellen: oroszok, sztyeppei népek, lengyelek), Mongol birodalom felemelkedésének előzménye, működése
 	- Angol-francia háborúk: a kétszáz éves háború (Mi volt? Mi volt a fő oka? Miért tartott el eddig)
 	- Litván háborúk évszázada (keresztény és pogány hadjáratok)
 	- Kereskedők fegyverben (kereskedelmek hatalmak konfliktusai: Itáliai államok [Genova, Hanza])
